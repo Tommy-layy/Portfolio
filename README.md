@@ -39,6 +39,7 @@ Portfolio website used to showcase my projects and skills.
 - [x] ~~Dark Mode~~
 - [ ] Add more projects once they are polished
 - [ ] Change website/domain icon
+- [ ] Change color theme
 
 ---
 
