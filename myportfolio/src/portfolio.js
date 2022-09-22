@@ -7,7 +7,7 @@ const about = {
   name: 'Tommy Le',
   role: 'Full Stack Software Engineer',
   description:
-    'Software engineer with a diverse background and passion for tech. I have a medical field background working in a clinical diagnostic lab and have also gained direct patient care skills while working in radiology. I am always looking to learn and add new skills to my arsenal in an effort to apply them into my work. I also enjoy working with a team of like minded individuals and am willing to help the team thrive and succeed.',
+    'A software engineer with a diverse background and passion for tech. I have a medical field background working in a clinical diagnostic lab and have also gained direct patient care skills while working in radiology. I am always looking to learn and add new skills to my arsenal in an effort to apply them into my work. I also enjoy working with a team of like minded individuals and am willing to help the team thrive and succeed.',
   resume:
     'https://docs.google.com/document/d/1N0wLmbwzfpFtTaIq7OtV8RwAW1W3SKmI9JFnXBLwr0M/edit?usp=sharing',
   social: {
@@ -20,7 +20,7 @@ const projects = [
   {
     name: 'Connect Four',
     description:
-      'A simple Connect Four game that I built after just 2 weeks of class. The game was built using basic HTML, CSS, and JavaScript, and was deployed using Surge',
+      'A simple Connect Four game that I built after just 2 weeks of class. The game was built using basic HTML, CSS, JavaScript, and was deployed using Surge',
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Tommy-layy/Connect_Four',
     livePreview: 'http://tlconnect4game.surge.sh/'
