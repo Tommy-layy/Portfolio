@@ -30,16 +30,16 @@ const projects = [
     description:
       'Project 2 will go here once I posh up a project that I liked!',
     stack: ['React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com'
+    sourceCode: 'https://github.com/Tommy-layy',
+    livePreview: 'https://github.com/Tommy-layy'
   },
   {
     name: 'Project 3',
     description:
       'Project 3 will go here once I polish up a project that I liked!',
     stack: ['React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com'
+    sourceCode: 'https://github.com/Tommy-layy',
+    livePreview: 'https://github.com/Tommy-layy'
   }
 ]
 
