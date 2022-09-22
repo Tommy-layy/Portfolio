@@ -19,7 +19,7 @@
 
 ### **_Description_**
 
-My portfolio website
+Portfolio website used to showcase my projects and skills.
 
 ---
 
@@ -37,6 +37,7 @@ My portfolio website
 
 - [x] ~~Dark Mode~~
 - [ ] Add more projects once they are polished
+- [ ] Change website/domain icon
 
 ---
 
