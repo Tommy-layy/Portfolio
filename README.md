@@ -1,8 +1,8 @@
-# NewPortfolio
+# Portfolio
 
 ---
 
-## Date: 16 Sep 22 - 
+## Date: 21 Sep 22 - 
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 ### **_Other Links_**
 
-[Deployment](https://portfolio-puce-ten-72.vercel.app/)
+[Deployment](https://tommyle.vercel.app/)
 
 ---
 
@@ -30,12 +30,6 @@ My portfolio website
 * JavaScript
 * React
 * Deployed using Vercel
-
----
-
-### **_Screenshots_**
-
-<img alt="Snapshot" width='500' src="" />
 
 ---
 
