@@ -29,6 +29,7 @@ Portfolio website used to showcase my projects and skills.
 * CSS
 * JavaScript
 * React
+* Material-UI
 * Deployed using Vercel
 
 ---
