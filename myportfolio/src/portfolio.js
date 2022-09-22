@@ -28,7 +28,7 @@ const projects = [
   {
     name: 'Project 2',
     description:
-      'Project 2 will go here once I posh up a project that I liked!',
+      'Project 2 will go here once I polish up a project that I liked!',
     stack: ['React'],
     sourceCode: 'https://github.com/Tommy-layy',
     livePreview: 'https://github.com/Tommy-layy'
@@ -36,7 +36,7 @@ const projects = [
   {
     name: 'Project 3',
     description:
-      'Project 3 will go here once I polish up a project that I liked!',
+      'Project 3 will go here once I make more changes/updates to a past project.',
     stack: ['React'],
     sourceCode: 'https://github.com/Tommy-layy',
     livePreview: 'https://github.com/Tommy-layy'
