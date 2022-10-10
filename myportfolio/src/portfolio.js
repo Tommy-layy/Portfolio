@@ -7,7 +7,7 @@ const about = {
   name: 'Tommy Le',
   role: 'Full Stack Software Engineer',
   description:
-    'I am a software engineer with a diverse background and passion for tech. I have a medical field background working in a clinical diagnostic lab and have also gained direct patient care skills while working in radiology. I am always looking to learn and add new skills to my arsenal in an effort to apply them into my work. I also enjoy working with a team of like minded individuals and am willing to help the team thrive and succeed.',
+    'I am a software engineer with a diverse background and passion for tech. I have a background in the medical field working in a clinical diagnostic lab and have also gained direct patient care skills while working in radiology. I am always looking to learn and add new skills to my arsenal in an effort to apply them into my work. I also enjoy working with a team of like minded individuals and am willing to help the team thrive and succeed.',
   resume:
     'https://docs.google.com/document/d/1N0wLmbwzfpFtTaIq7OtV8RwAW1W3SKmI9JFnXBLwr0M/edit?usp=sharing',
   social: {
