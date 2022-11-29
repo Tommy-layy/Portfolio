@@ -23,7 +23,7 @@ const projects = [
       'A simple Connect Four game that I built after just 2 weeks of class. The game was built using basic HTML, CSS, JavaScript, and was deployed using Surge',
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Tommy-layy/Connect_Four',
-    livePreview: 'http://tlconnect4game.surge.sh/'
+    livePreview: 'tle-connect4.vercel.app'
   },
   {
     name: 'Project 2',
